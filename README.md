@@ -31,17 +31,17 @@
 - [ ] Brancher les WC sur l'eau de pluie #Plomberie 🔽 
 - [ ] Installer un récupérateur de chaleur pour la douche de la maison #Plomberie 🔽 
 - [ ] Rediriger les évacuations de l'evier de la chambre Est vers les égouts #Plomberie 🔼 
-
+____
 ## Légende
 ### Priorité
-🔺 Plus haute priorité
-⏫ Haute priorité
-🔼 Priorité moyenne
-__  pas de priorité définie
-🔽 priorité basse
-⏬ Priorité très basse
+- 🔺 Plus haute priorité
+- ⏫ Haute priorité
+- 🔼 Priorité moyenne
+-     pas de priorité définie
+- 🔽 priorité basse
+- ⏬ Priorité très basse
 ### Planning
-📅 Date limite !
-⏳ Date prévue
-🛫 Date de départ, ne peut pas commencer avant
+- 📅 Date limite !
+- ⏳ Date prévue
+- 🛫 Date de départ, ne peut pas commencer avant
 
